@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsvikramsingh&label=Profile%20views&color=0e75b6&style=flat" alt="vsvikramsingh" /> </p>
 
-- 🔭 I’m currently learning **Java And MERN Stack**
-
-- 🌱 I’m currently learning **Java , Springboot , MySQL , React**
+- 🌱 I’m currently learning **Java And MERN Stack**
 
 - 💬 Ask me about **Java , Springboot , SQL , C# , MVC , React , JavaScript , MongoDB**
 
