@@ -1,15 +1,15 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1060&t=st=1695070773~exp=1695071373~hmac=e5d6b273b470e0f4c7deaee3002d70cdb94a7a2cc247abeedd0ca8292a50b9d4">
 <h1 align="center">Hi 👋, I'm Vikram Singh</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsvikramsingh&label=Profile%20views&color=0e75b6&style=flat" alt="vsvikramsingh" /> </p>
 
-- 🔭 I’m currently working on **Home Services Project**
+- 🔭 I’m currently learning **Java And MERN Stack**
 
 - 🌱 I’m currently learning **Java , Springboot , MySQL , React**
 
-- 💬 Ask me about **Java , Springboot , SQL , C# , MVC , React**
+- 💬 Ask me about **Java , Springboot , SQL , C# , MVC , React , JavaScript , MongoDB**
 
 - 📫 How to reach me **vsvikramsingh5200@gmail.com**
 
