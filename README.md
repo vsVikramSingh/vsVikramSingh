@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Java , Springboot , SQL , C# , MVC , React , JavaScript , MongoDB**
 
-- 📫 How to reach me **vsvikramsingh5200@gmail.com**
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Languages and Tools:</h3>
